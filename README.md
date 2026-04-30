@@ -1,2 +1,1 @@
-# master
-Enterprise employee dashboard for policies, tasks, and analytics
+# Enterprise Employee Dashboard
